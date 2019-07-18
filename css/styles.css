@@ -1,0 +1,52 @@
+body {
+    font-family: 'DM Serif Display', serif;
+    background-color: #0f0500;
+    font-size: 10px;
+}
+
+.hero {
+    width: 100%;
+    height: 100vh;
+    display: table;
+    background-image: url(../img/capa-madmax2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 20px;
+}
+
+.menu {
+    
+}
+
+.menu > ul > li {
+    list-style: none;
+}
+
+.menu > ul > li > a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+
+.menu > ul > li > a:hover {
+    
+}
+
+.presentation {
+    
+}
+
+.brand {
+    position: relative;
+    font-family: 'Literata', serif;
+    font-size: 4.5em;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.brand > a {
+    text-decoration: none;
+}
