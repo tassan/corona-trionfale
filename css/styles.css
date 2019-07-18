@@ -7,7 +7,7 @@ body {
     font-family: 'DM Serif Display', serif;
     background-color: black;
     font-size: 10px;
-    color: white;
+    color: #474747;
 }
 
 .menu {
@@ -42,6 +42,15 @@ body {
 }
 
 .presentation {
+    width: 45%;
+    height: auto;
+}
+
+.presentation > p {
+    color: #e8a02e;
+    padding: 15px;
+    font-size: .5em;
+    text-align: justify;
     
 }
 
